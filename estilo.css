@@ -1,0 +1,112 @@
+body{
+	background:#F08080;
+	font-family: lucida sans;
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
+
+
+h1{
+	color:#800080;
+	font-size:85px;
+	text-align:center;
+}
+ h2
+ {
+ 	color:#B0E0E6;
+	font-size:50px;
+	text-align:center;
+ }
+
+footer{
+	float: left;
+ 	text-align: center;
+ 	width: 350px;
+ 	border-style: solid;
+ 	border-color:#800080;
+ 	background:#E0FFFF;
+	padding-top: 40px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+    padding-left: 30px;
+}
+
+
+ aside{
+ 	float: left;
+ 	text-align: center;
+ 	width: 350px;
+ 	border-style: solid;
+ 	border-color:#800080;
+ 	background:#E0FFFF;
+	padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+ }
+
+ #zen-summary{
+ 	color:#4B0082;
+ }
+
+ #zen-preamble{
+ 	color:#4169E1;
+ 	border-style: solid;
+ 	border-color: #663399;
+ 	background:	#C0C0C0;
+ 	border-radius:25px;
+ 	padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+ }
+
+ #zen-participation{
+ 	color:#4169E1;
+ 	border-style: solid;
+ 	border-color: ##DDA0DD;
+ 	background:	#C0C0C0;
+ 	border-radius:25px;
+ 	padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+ }
+
+ #zen-requirements{
+ 	color:#4169E1;
+ 	border-style: solid;
+ 	border-color: #663399;
+ 	background:	#C0C0C0;	
+ 	border-radius:25px;
+ 	padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+ }
+
+ #zen-supporting{
+ 	color:#4B0082;
+ 	border-style: solid;
+ 	border-color:#663399;
+ 	background:#DB7093;
+ 	border-radius:25px;
+ 	padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+ }
+
+#zen-benefits{
+	color:#4B0082;
+ 	border-style: solid;
+ 	border-color:#663399;
+ 	background:#DB7093;
+ 	border-radius:25px;
+ 	padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;	
+}
